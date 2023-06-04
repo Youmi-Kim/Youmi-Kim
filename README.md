@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=KIM%20YOUMI&fontAlign=30&fontSize=40&desc=Follow%20my%20Heart%20and%20Intuition&descAlign=70&descAlignY=50&fontColor=000000&color=D9EFA8)
+![header](https://capsule-render.vercel.app/api?type=waving&text=KIM%20YOUMI&fontAlign=30&fontSize=40&descAlign=70&descAlignY=50&fontColor=000000&color=D9EFA8)
 ## Skills 📚
 ### Platforms & Languages
 <div>
