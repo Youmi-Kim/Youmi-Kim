@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=KIM%20YOUMI&fontAlign=30&fontSize=40&descAlign=70&descAlignY=50&fontColor=000000&color=D9EFA8)
+![header](https://capsule-render.vercel.app/api?type=waving&text=KIM%20YOUMI&fontAlign=50&fontAlignY=40&fontSize=50&height=200&fontColor=000000&color=D9EFA8)
 ## Skills 📚
 ### Platforms & Languages
 <div>
@@ -13,8 +13,7 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imyoumikim&theme=gruvbox_light&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imyoumikim&theme=gruvbox_light&show_icons=true&hide=stars)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnglgl9)](https://solved.ac/dnglgl9/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoumi-Kim&count_bg=%23F5F299&title_bg=%23D1EFBA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
