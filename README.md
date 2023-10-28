@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=KIM%20YOUMI&fontAlign=50&fontAlignY=40&fontSize=50&height=200&fontColor=000000&color=D9EFA8)
+![header](https://capsule-render.vercel.app/api?type=waving&fontAlign=50&fontAlignY=40&fontSize=50&height=200&fontColor=000000&color=D9EFA8)
 ## Skills 📚
 ### Platforms & Languages
 <div>
